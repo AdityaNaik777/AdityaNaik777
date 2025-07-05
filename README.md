@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kaggle" height="60" alt="kaggle logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo" />
