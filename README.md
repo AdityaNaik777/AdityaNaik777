@@ -13,15 +13,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=canva" height="60" alt="canva logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=android" height="60" alt="android logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
   <img width="12" />
